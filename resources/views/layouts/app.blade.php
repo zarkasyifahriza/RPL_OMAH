@@ -13,14 +13,13 @@
     <div class="container mx-auto px-4">
         <div class="navbar bg-base-100">
             <div class="flex-1">
-                <a href="{{ route('homepage') }}"  class="btn btn-ghost text-xl">Pilih Driver</a>
+                <a href="{{ route('homepage') }}"  class="btn btn-ghost text-xl">Order</a>
             </div>
             <div class="flex-none">
                 <div class="dropdown dropdown-end">
                     <div tabindex="0" role="button" class="btn btn-ghost btn-circle">
                         
                     </div>
-
                 </div>
                 <div class="dropdown dropdown-end">
                     <div tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
